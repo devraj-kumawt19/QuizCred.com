@@ -52,7 +52,7 @@ const TOP_SECTION = {
   SHORT_DESCRIPTION:
     "Join us on 16th and 17th of July 2022 for 36 hours of creation, innovation, & fun with over 1000+ students.",
   IMG_SRC: team,
-  DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
+  DISCORD_LINK: "https://unstop.com/quiz/quiz-a-thon-skill-benchmark-poornima-university-pu-jaipur-1620225",
   JUDGES_FORM_LINK:
     "#Jugdes Form Link",
   HACKERS_REGISTRATION_FORM_LINK:
@@ -61,7 +61,7 @@ const TOP_SECTION = {
 
 const SOCIALS = {
   instagram: "https://instagram.com/quizcred2022?igshid=YmMyMTA2M2Y=",
-  discord: "https://discord.gg/cvHPEK7U3v",
+  discord: "https://unstop.com/quiz/quiz-a-thon-skill-benchmark-poornima-university-pu-jaipur-1620225",
   linkedin: "https://www.linkedin.com/company/quizcred/",
   twitter: "https://twitter.com/QuizCred?t=CPjNJmQX1JxhIHb_YI0Tuw&s=09",
   email: "mailto:contact@quizcred.tech",
